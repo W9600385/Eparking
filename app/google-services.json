@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007468432256",
+    "project_id": "eparking-42f76",
+    "storage_bucket": "eparking-42f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007468432256:android:17ce849cbaa339acefcf65",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.w9600385"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007468432256-ruldn1tfbl71m7g91v21abil2s4vppul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkL9nis_VtthTmHdQPR1HmG2M9SF5DsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007468432256-ruldn1tfbl71m7g91v21abil2s4vppul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
