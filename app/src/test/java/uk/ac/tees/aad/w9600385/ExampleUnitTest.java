@@ -1,4 +1,4 @@
-package com.example.eparking;
+package uk.ac.tees.aad.w9600385;
 
 import org.junit.Test;
 

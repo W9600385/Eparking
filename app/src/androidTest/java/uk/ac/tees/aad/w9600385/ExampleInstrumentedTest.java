@@ -1,4 +1,4 @@
-package com.example.eparking;
+package uk.ac.tees.aad.w9600385;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.eparking", appContext.getPackageName());
+        assertEquals("uk.ac.tees.aad.w9600385", appContext.getPackageName());
     }
 }
